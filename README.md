@@ -1,5 +1,5 @@
-# Flask learning resources
-The compilation of resources to learn Flask:
+# Flask resources
+The compilation of Flask resources.
 * [Flask hacks & best practices](http://slides.skien.cc/flask-hacks-and-best-practices)
 * [Flask foundation](https://jackstouffer.com/flask-foundation)
 * [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns) - More interesting patterns to accomplish certain things with Flask.
